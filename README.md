@@ -4,7 +4,7 @@ Hola! Soy z4nk un desarrollador fullstack y hoy e desarrollado el famoso juego l
 
 ## Como instalarlo y usarlo
 Para instarlo deberas de usar ```git clone https://github.com/z44nkkk/tetris-python```, a continuacion te meteras en la carpeta del repositorio clonado en tu **ORDENADOR** y usaras ```pip install pygame```. (Pero deberas de haber tener instalado python antes para poder usar este repositorio).
-Una vez que lo tengas instalado la dependencia **pygame** usaras ```python tetris.py``` ya que este comando lo ejecutara.ç
+Una vez que lo tengas instalado la dependencia **pygame** usaras ```python tetris.py``` ya que este comando lo ejecutara.
 
 ## Soporte 24/7
 Si el repositorio no te sirve o falla algo (dificil que pase), me puedes contactar al discord: https://discord.gg/rc3gZSf2g9
